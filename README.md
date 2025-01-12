@@ -83,4 +83,4 @@ python installer.py
 
 **授权协议**
 
-本项目遵循 [MIT License](LICENSE) 协议，欢迎自由使用、修改和分发。
+本项目遵循MIT License协议，欢迎自由使用、修改和分发。
